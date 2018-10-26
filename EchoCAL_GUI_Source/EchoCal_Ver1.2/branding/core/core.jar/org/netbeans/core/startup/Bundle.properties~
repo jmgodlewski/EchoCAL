@@ -1,0 +1,8 @@
+currentVersion=EchoCal - A Wireless Echosounder Auto-Calibration System By The National Oceanic and Atmospheric Administration
+LBL_splash_window_title=Starting EchoCal
+SPLASH_HEIGHT=132
+SPLASH_WIDTH=129
+SplashProgressBarBounds=0,128,129,4
+SplashProgressBarColor=0xFFFF
+SplashRunningTextBounds=31,59,81,13
+SplashRunningTextFontSize=10

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="noaa.echocal.application">
+    <module_version install_time="1540574842176" last="true" origin="installer" specification_version="1.2">
+        <file crc="1633749905" name="config/Modules/noaa-echocal-application.xml"/>
+        <file crc="2510084473" name="modules/ext/JTattoo-1.6.11.jar"/>
+        <file crc="4126762315" name="modules/ext/RXTXcomm.jar"/>
+        <file crc="1500310409" name="modules/ext/ch.ntb.usb-0.5.9.jar"/>
+        <file crc="2601033416" name="modules/ext/jinput.jar"/>
+        <file crc="3894915594" name="modules/noaa-echocal-application.jar"/>
+    </module_version>
+</module>

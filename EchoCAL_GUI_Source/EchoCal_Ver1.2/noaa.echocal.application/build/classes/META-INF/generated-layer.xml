@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="noaa_echocal_application">
+                <file name="CommPortConfigUI" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--noaa.echocal.application.CommPortConfigUITopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//noaa.echocal.application//CommPortConfigUI//EN"/>
+                </file>
+                <file name="CoordinateDisplay" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--noaa.echocal.application.CoordinateDisplayTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//noaa.echocal.application//CoordinateDisplay//EN"/>
+                </file>
+                <file name="Diagram" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--noaa.echocal.application.DiagramTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//noaa.echocal.application//Diagram//EN"/>
+                </file>
+                <file name="JoystickConfiguration" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--noaa.echocal.application.JoystickConfigurationTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//noaa.echocal.application//JoystickConfiguration//EN"/>
+                </file>
+                <file name="NavigationControls" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--noaa.echocal.application.NavigationControls-->
+                    <attr name="hint.originalPublicID" stringvalue="-//noaa.echocal.application//NavigationControls//EN"/>
+                </file>
+                <file name="VesselConfigurationUI" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--noaa.echocal.application.VesselConfigurationUITopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//noaa.echocal.application//VesselConfigurationUI//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="noaa">
+                <folder name="echocal">
+                    <folder name="application">
+                        <file name="CommPortConfigUITopComponent">
+                            <!--noaa.echocal.application.CommPortConfigUITopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//noaa_echocal_application/CommPortConfigUI.instance"/>
+                        </file>
+                        <file name="CoordinateDisplayTopComponent">
+                            <!--noaa.echocal.application.CoordinateDisplayTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//noaa_echocal_application/CoordinateDisplay.instance"/>
+                        </file>
+                        <file name="DiagramTopComponent">
+                            <!--noaa.echocal.application.DiagramTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//noaa_echocal_application/Diagram.instance"/>
+                        </file>
+                        <file name="JoystickConfigurationTopComponent">
+                            <!--noaa.echocal.application.JoystickConfigurationTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//noaa_echocal_application/JoystickConfiguration.instance"/>
+                        </file>
+                        <file name="NavigationControls">
+                            <!--noaa.echocal.application.NavigationControls-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//noaa_echocal_application/NavigationControls.instance"/>
+                        </file>
+                        <file name="VesselConfigurationUITopComponent">
+                            <!--noaa.echocal.application.VesselConfigurationUITopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//noaa_echocal_application/VesselConfigurationUI.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="noaa_echocal_application">
+                <file name="CommPortConfigUI.instance">
+                    <!--noaa.echocal.application.CommPortConfigUITopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="noaa.echocal.application.CommPortConfigUITopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="noaa.echocal.application.CommPortConfigUITopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="CoordinateDisplay.instance">
+                    <!--noaa.echocal.application.CoordinateDisplayTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="noaa.echocal.application.CoordinateDisplayTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="noaa.echocal.application.CoordinateDisplayTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Diagram.instance">
+                    <!--noaa.echocal.application.DiagramTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="noaa.echocal.application.DiagramTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="noaa.echocal.application.DiagramTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="JoystickConfiguration.instance">
+                    <!--noaa.echocal.application.JoystickConfigurationTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="noaa.echocal.application.JoystickConfigurationTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="noaa.echocal.application.JoystickConfigurationTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="NavigationControls.instance">
+                    <!--noaa.echocal.application.NavigationControls-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="noaa.echocal.application.NavigationControls"/>
+                    <attr name="settings.instanceOf" stringvalue="noaa.echocal.application.NavigationControls"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="VesselConfigurationUI.instance">
+                    <!--noaa.echocal.application.VesselConfigurationUITopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="noaa.echocal.application.VesselConfigurationUITopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="noaa.echocal.application.VesselConfigurationUITopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Tools">
+            <file name="noaa-echocal-application-CommPortConfigUITopComponent.shadow">
+                <!--noaa.echocal.application.CommPortConfigUITopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/noaa-echocal-application-CommPortConfigUITopComponent.instance"/>
+                <attr intvalue="10" name="position"/>
+            </file>
+            <file name="noaa-echocal-application-CoordinateDisplayTopComponent.shadow">
+                <!--noaa.echocal.application.CoordinateDisplayTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/noaa-echocal-application-CoordinateDisplayTopComponent.instance"/>
+                <attr intvalue="20" name="position"/>
+            </file>
+            <file name="noaa-echocal-application-DiagramTopComponent.shadow">
+                <!--noaa.echocal.application.DiagramTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/noaa-echocal-application-DiagramTopComponent.instance"/>
+                <attr intvalue="30" name="position"/>
+            </file>
+            <file name="noaa-echocal-application-JoystickConfigurationTopComponent.shadow">
+                <!--noaa.echocal.application.JoystickConfigurationTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/noaa-echocal-application-JoystickConfigurationTopComponent.instance"/>
+                <attr intvalue="12" name="position"/>
+            </file>
+            <file name="noaa-echocal-application-NavigationControls.shadow">
+                <!--noaa.echocal.application.NavigationControls-->
+                <attr name="originalFile" stringvalue="Actions/Window/noaa-echocal-application-NavigationControls.instance"/>
+                <attr intvalue="40" name="position"/>
+            </file>
+            <file name="noaa-echocal-application-VesselConfigurationUITopComponent.shadow">
+                <!--noaa.echocal.application.VesselConfigurationUITopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/noaa-echocal-application-VesselConfigurationUITopComponent.instance"/>
+                <attr intvalue="50" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="CommPortConfigUITopComponent.settings">
+                <!--noaa.echocal.application.CommPortConfigUITopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="noaa.echocal.application.CommPortConfigUITopComponent"/>
+</settings>
+]]></file>
+            <file name="CoordinateDisplayTopComponent.settings">
+                <!--noaa.echocal.application.CoordinateDisplayTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="noaa.echocal.application.CoordinateDisplayTopComponent"/>
+</settings>
+]]></file>
+            <file name="DiagramTopComponent.settings">
+                <!--noaa.echocal.application.DiagramTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="noaa.echocal.application.DiagramTopComponent"/>
+</settings>
+]]></file>
+            <file name="JoystickConfigurationTopComponent.settings">
+                <!--noaa.echocal.application.JoystickConfigurationTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="noaa.echocal.application.JoystickConfigurationTopComponent"/>
+</settings>
+]]></file>
+            <file name="NavigationControls.settings">
+                <!--noaa.echocal.application.NavigationControls--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="noaa.echocal.application.NavigationControls"/>
+</settings>
+]]></file>
+            <file name="VesselConfigurationUITopComponent.settings">
+                <!--noaa.echocal.application.VesselConfigurationUITopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="noaa.echocal.application.VesselConfigurationUITopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="rightSlidingSide">
+                <file name="CommPortConfigUITopComponent.wstcref">
+                    <!--noaa.echocal.application.CommPortConfigUITopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="CommPortConfigUITopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                <file name="DiagramTopComponent.wstcref">
+                    <!--noaa.echocal.application.DiagramTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="DiagramTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="JoystickConfigurationTopComponent.wstcref">
+                    <!--noaa.echocal.application.JoystickConfigurationTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="JoystickConfigurationTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+            <folder name="editor">
+                <file name="CoordinateDisplayTopComponent.wstcref">
+                    <!--noaa.echocal.application.CoordinateDisplayTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="CoordinateDisplayTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                <file name="VesselConfigurationUITopComponent.wstcref">
+                    <!--noaa.echocal.application.VesselConfigurationUITopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="VesselConfigurationUITopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+            <folder name="output">
+                <file name="NavigationControls.wstcref">
+                    <!--noaa.echocal.application.NavigationControls--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="NavigationControls"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="noaa-echocal-application-CommPortConfigUITopComponent.instance">
+                <!--noaa.echocal.application.CommPortConfigUITopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="noaa.echocal.application.CommPortConfigUITopComponent"/>
+                <attr name="preferredID" stringvalue="CommPortConfigUITopComponent"/>
+                <attr
+                    bundlevalue="noaa.echocal.application.Bundle#CTL_CommPortConfigUIAction" name="displayName"/>
+            </file>
+            <file name="noaa-echocal-application-CoordinateDisplayTopComponent.instance">
+                <!--noaa.echocal.application.CoordinateDisplayTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="noaa.echocal.application.CoordinateDisplayTopComponent"/>
+                <attr name="preferredID" stringvalue="CoordinateDisplayTopComponent"/>
+                <attr
+                    bundlevalue="noaa.echocal.application.Bundle#CTL_CoordinateDisplayAction" name="displayName"/>
+            </file>
+            <file name="noaa-echocal-application-DiagramTopComponent.instance">
+                <!--noaa.echocal.application.DiagramTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="noaa.echocal.application.DiagramTopComponent"/>
+                <attr name="preferredID" stringvalue="DiagramTopComponent"/>
+                <attr
+                    bundlevalue="noaa.echocal.application.Bundle#CTL_DiagramAction" name="displayName"/>
+            </file>
+            <file name="noaa-echocal-application-JoystickConfigurationTopComponent.instance">
+                <!--noaa.echocal.application.JoystickConfigurationTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="noaa.echocal.application.JoystickConfigurationTopComponent"/>
+                <attr name="preferredID" stringvalue="JoystickConfigurationTopComponent"/>
+                <attr
+                    bundlevalue="noaa.echocal.application.Bundle#CTL_JoystickConfigurationAction" name="displayName"/>
+            </file>
+            <file name="noaa-echocal-application-NavigationControls.instance">
+                <!--noaa.echocal.application.NavigationControls-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="noaa.echocal.application.NavigationControls"/>
+                <attr name="preferredID" stringvalue="NavigationControls"/>
+                <attr
+                    bundlevalue="noaa.echocal.application.Bundle#CTL_NavigationControlsAction" name="displayName"/>
+            </file>
+            <file name="noaa-echocal-application-VesselConfigurationUITopComponent.instance">
+                <!--noaa.echocal.application.VesselConfigurationUITopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="noaa.echocal.application.VesselConfigurationUITopComponent"/>
+                <attr name="preferredID" stringvalue="VesselConfigurationUITopComponent"/>
+                <attr
+                    bundlevalue="noaa.echocal.application.Bundle#CTL_VesselConfigurationUIAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

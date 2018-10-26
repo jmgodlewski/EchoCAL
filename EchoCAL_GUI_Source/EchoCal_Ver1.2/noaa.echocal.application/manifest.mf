@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: noaa.echocal.application
+OpenIDE-Module-Layer: noaa/echocal/application/layer.xml
+OpenIDE-Module-Localizing-Bundle: noaa/echocal/application/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.2

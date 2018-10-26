@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<configurationFile>
+<configurationFileName>"Endeavor_March2016.xml"</configurationFileName>
+<configurationCode>"pmsfsa"</configurationCode>
+<port_forward_distance_to_ocean_surface>"Not Applicable"</port_forward_distance_to_ocean_surface>
+<port_forward_distance_to_port_middle>"null"</port_forward_distance_to_port_middle>
+<port_forward_distance_to_port_aft>"null"</port_forward_distance_to_port_aft>
+<port_forward_distance_to_starboard_forward>"null"</port_forward_distance_to_starboard_forward>
+<port_forward_distance_to_starboard_middle>"null"</port_forward_distance_to_starboard_middle>
+<port_forward_distance_to_starboard_aft>"null"</port_forward_distance_to_starboard_aft>
+<port_middle_distance_to_ocean_surface>"5.5"</port_middle_distance_to_ocean_surface>
+<port_middle_distance_to_port_forward>"null"</port_middle_distance_to_port_forward>
+<port_middle_distance_to_port_aft>"null"</port_middle_distance_to_port_aft>
+<port_middle_distance_to_starboard_forward>"15.1"</port_middle_distance_to_starboard_forward>
+<port_middle_distance_to_starboard_middle>"null"</port_middle_distance_to_starboard_middle>
+<port_middle_distance_to_starboard_aft>"null"</port_middle_distance_to_starboard_aft>
+<port_aft_distance_to_ocean_surface>"Not Applicable"</port_aft_distance_to_ocean_surface>
+<port_aft_distance_to_port_forward>"null"</port_aft_distance_to_port_forward>
+<port_aft_distance_to_port_middle>"null"</port_aft_distance_to_port_middle>
+<port_aft_distance_to_starboard_forward>"null"</port_aft_distance_to_starboard_forward>
+<port_aft_distance_to_starboard_middle>"null"</port_aft_distance_to_starboard_middle>
+<port_aft_distance_to_starboard_aft>"null"</port_aft_distance_to_starboard_aft>
+<starboard_forward_distance_to_ocean_surface>"5.5"</starboard_forward_distance_to_ocean_surface>
+<starboard_forward_distance_to_port_forward>"null"</starboard_forward_distance_to_port_forward>
+<starboard_forward_distance_to_port_middle>"null"</starboard_forward_distance_to_port_middle>
+<starboard_forward_distance_to_port_aft>"null"</starboard_forward_distance_to_port_aft>
+<starboard_forward_distance_to_starboard_middle>"null"</starboard_forward_distance_to_starboard_middle>
+<starboard_forward_distance_to_starboard_aft>"20.9"</starboard_forward_distance_to_starboard_aft>
+<starboard_middle_distance_to_ocean_surface>"Not Applicable"</starboard_middle_distance_to_ocean_surface>
+<starboard_middle_distance_to_port_forward>"null"</starboard_middle_distance_to_port_forward>
+<starboard_middle_distance_to_port_middle>"null"</starboard_middle_distance_to_port_middle>
+<starboard_middle_distance_to_port_aft>"null"</starboard_middle_distance_to_port_aft>
+<starboard_middle_distance_to_starboard_forward>"null"</starboard_middle_distance_to_starboard_forward>
+<starboard_middle_distance_to_starboard_aft>"null"</starboard_middle_distance_to_starboard_aft>
+<starboard_aft_distance_to_ocean_surface>"3.0"</starboard_aft_distance_to_ocean_surface>
+<starboard_aft_distance_to_port_forward>"null"</starboard_aft_distance_to_port_forward>
+<starboard_aft_distance_to_port_middle>"12.9"</starboard_aft_distance_to_port_middle>
+<starboard_aft_distance_to_port_aft>"null"</starboard_aft_distance_to_port_aft>
+<starboard_aft_distance_to_starboard_forward>"null"</starboard_aft_distance_to_starboard_forward>
+<starboard_aft_distance_to_starboard_middle>"null"</starboard_aft_distance_to_starboard_middle>
+<vessel_width>"9.3"</vessel_width>
+<alongship_distance_to_starboard_forward>"0.0"</alongship_distance_to_starboard_forward>
+<alongship_distance_to_port_forward>"null"</alongship_distance_to_port_forward>
+<alongship_distance_to_starboard_middle>"null"</alongship_distance_to_starboard_middle>
+<alongship_distance_to_port_middle>"null"</alongship_distance_to_port_middle>
+<distance_from_center_line>"0.5"</distance_from_center_line>
+<transducer_depth>"5.4"</transducer_depth>
+<depth_of_echosounder_view_centroid>"10"</depth_of_echosounder_view_centroid>
+</configurationFile>
