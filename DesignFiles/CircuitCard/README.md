@@ -1,10 +1,10 @@
 # EchoCAL: Custom Printed Circuit Board (PCB)
 
-The EchoCAL Control Box includes a custom-built printed circuit board "PCB" which incorporates a [Parallax Microcontroller] (https://www.parallax.com/products/p8x32a-d40) to interact with Canon Downriggers. This PCB also provides wireless communications with the controlling PC.
+The EchoCAL Control Box includes a custom-built printed circuit board "PCB" which incorporates a [Parallax Microcontroller] (https://www.parallax.com/product/p8x32a-d40) to interact with Canon Downriggers. This PCB also provides wireless communications with the controlling PC.
 
-These boards can be purchased through [ExpressPCB.com] (https://www.expresspcb.com/) using their free schematic and PCB design software.
+These boards can be purchased through [ExpressPCB.com](https://www.expresspcb.com/) using their free schematic and PCB design software.
 
-[Picture Of PCB] (./EchoCAL_PCB.JPG)
+![Picture Of PCB](./EchoCAL_PCB.JPG)
 
 ## Purchasing Circuit Boards:
 
