@@ -23,15 +23,15 @@ This folder has the Software/Firmware Installation Manuals and the User Manuals.
 
 ### EchoCAL_GUI_Source:
 
-This folder contains all of the ![Netbeans](https://netbeans.org) JAVA Project source code for the EchoCAL Graphical User Interface (GUI).
+This folder contains all of the [Netbeans](https://netbeans.org) JAVA Project source code for the EchoCAL Graphical User Interface (GUI).
 
 ### Parallax_Firmware:
 
-This folder contains the firmware for the ![Parallax Propeller](https://www.parallax.com/catalog/microcontrollers/propeller) Microcontroller.
+This folder contains the firmware for the [Parallax Propeller](https://www.parallax.com/catalog/microcontrollers/propeller) Microcontroller.
 
 ### WGFAST_Presentation:
 
-This folder contains a Microsoft PowerPoint presentation of the EchoCAL System. This presentation was given at the Working Group on Fisheries Acoustics, Science, and Technology (![WGFAST](http://www.ices.dk/community/groups/Pages/WGFAST.aspx)) meeting in May 2014. 
+This folder contains a Microsoft PowerPoint presentation of the EchoCAL System. This presentation was given at the Working Group on Fisheries Acoustics, Science, and Technology ([WGFAST](http://www.ices.dk/community/groups/Pages/WGFAST.aspx)) meeting in May 2014. 
 
 ### bin:
 
